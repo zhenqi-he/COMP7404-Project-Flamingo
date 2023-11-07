@@ -81,3 +81,8 @@ pip install -r requirements.txt
 python flamingo.py --class_1_path=PATH_TO_HANBAO --class_2_path=PATH_TO_TUANZI --test_cases_path=PATH_TO_TESTCASES 
 ```
 
+**Run Logo OCR**
+
+```
+python flamingo_OCR.py --image_paths=PATH_TO_OCR_EXAMPLES
+```
