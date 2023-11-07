@@ -4,14 +4,19 @@ This is the implementation of a demo using Flamingo for few-shot image classific
 
 ## Quick Start
 
-- [Model Structure](#Model Structure of Flamingo)
+- [Model Structure](#Architecture)
 - [Demo](#Examples)
   
-## Model Structure of Flamingo
+## Architecture
 
 <p align="center">
   <img src="./images/model_structure.png" />
 </p>
 
 ## Examples
+### Few-shot Classification for cats
 
+Input:
+<p align="center">
+  <img src="./images/hanbao.jpg" />
+</p>
