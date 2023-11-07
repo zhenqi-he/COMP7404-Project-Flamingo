@@ -1,7 +1,4 @@
-einops
-einops-exts
-transformers>=4.28.1
-torch==2.0.1
-pillow
-open_clip_torch>=2.16.0 
-sentencepiece
+numpy
+huggingface_hub
+open-flamingo
+torch
