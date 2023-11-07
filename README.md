@@ -53,3 +53,15 @@ Images Input:
 <p align="center">
   <img src="./images/logs.JPG" />
 </p>
+
+_Test Case_:
+
+Text Input: This is the logo of 
+
+Images Input:
+<p align="center">
+  <img src="./images/The_University_of_Hong_Kong.png" />
+</p>
+
+**Output**
+This is the logo of the university of hong kong
