@@ -90,4 +90,4 @@ python flamingo_OCR.py --image_paths=PATH_TO_OCR_EXAMPLES
 
 ## Acknowledgement
 
-We implement our demo based on the Open-Flamingo[here](https://github.com/mlfoundations/open_flamingo/tree/main) and Flamingo-Pytorch[here](https://github.com/lucidrains/flamingo-pytorch) based on the paper __Flamingo: a visual language model for few-shot learning__[here](https://proceedings.neurips.cc/paper_files/paper/2022/file/960a172bc7fbf0177ccccbb411a7d800-Paper-Conference.pdf).
+We implement our demo based on the [Open-Flamingo](https://github.com/mlfoundations/open_flamingo/tree/main) and [Flamingo-Pytorch](https://github.com/lucidrains/flamingo-pytorch) based on the paper [__Flamingo: a visual language model for few-shot learning__](https://proceedings.neurips.cc/paper_files/paper/2022/file/960a172bc7fbf0177ccccbb411a7d800-Paper-Conference.pdf).
