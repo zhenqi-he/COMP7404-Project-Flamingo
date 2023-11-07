@@ -69,8 +69,15 @@ This is the logo of the university of hong kong
 
 ## Set-up
 
-### Environments
-
+### Installation
+To install related packages, run the following code to set up the environment.
 ```
 pip install -r requirements.txt
 ```
+
+### Run
+**Run Cats Classification**
+```
+python flamingo.py --class_1_path=PATH_TO_HANBAO --class_2_path=PATH_TO_TUANZI --test_cases_path=PATH_TO_TESTCASES 
+```
+
