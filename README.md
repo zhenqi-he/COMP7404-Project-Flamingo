@@ -16,7 +16,40 @@ This is the implementation of a demo using Flamingo for few-shot image classific
 ## Examples
 ### Few-shot Classification for cats
 
-Input:
+**Input**
+
+_Category 1_:
+
+Text input: An image of a cat named Hanbao :hamburger: .
 <p align="center">
   <img src="./images/hanbao.jpg" />
+</p>
+
+_Category 2_:
+
+Text input: An image of a cat named Tuanzi :dango: .
+<p align="center">
+  <img src="./images/tuanzi.jpg" />
+</p>
+
+_Test Case_:
+
+Text input: An image of a cat named 
+<p align="center">
+  <img src="./few_shot_classification_examples/test_cases/1.jpg" />
+</p>
+
+**Output**
+
+An image of a cat named tuanzi.
+
+### Simple OCR for University Logos
+
+**Input**
+
+Text Input: This is the logo of {University Name}
+
+Images Input:
+<p align="center">
+  <img src="./images/logs.JPG" />
 </p>
