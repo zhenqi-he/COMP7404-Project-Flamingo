@@ -6,6 +6,7 @@ This is the implementation of a demo using Flamingo for few-shot image classific
 
 - [Model Structure](#Architecture)
 - [Demo](#Examples)
+- [Set-up](#Set-up)
   
 ## Architecture
 
@@ -65,3 +66,11 @@ Images Input:
 
 **Output**
 This is the logo of the university of hong kong
+
+## Set-up
+
+### Environments
+
+```
+pip install -r requirements.txt
+```
